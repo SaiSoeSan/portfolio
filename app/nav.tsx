@@ -55,11 +55,11 @@ const Nav = () => {
               Interests
             </a>
           </li> */}
-          <li className="nav-item">
+          {/* <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#testimonial">
               Testimonial
             </a>
-          </li>
+          </li> */}
         </ul>
       </div>
     </nav>

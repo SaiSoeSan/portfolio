@@ -11,17 +11,16 @@ const About = () => {
           <a href="mailto:saisoesan.dev@email.com">saisoesan.dev@gmail.com</a>
         </div>
         <p className="mb-5">
-          Passionate Full Stack Web Developer with 5 years of experience
-          designing, developing, and maintaining scalable enterprise web
-          applications for the real estate and software development industries.
-          Skilled in creating efficient, user-centric solutions using a strong
-          tech stack, including PHP, Laravel, JavaScript, Vue.js, MySQL, and
-          Oracle. Strong background in both backend and frontend development,
-          with a focus on delivering high-quality, maintainable code. Excellent
-          communicator and proactive team player with a proven ability to solve
-          problems and adapt quickly to new challenges, building strong
-          collaboration with cross-functional teams to achieve project goals and
-          exceed client expectations.
+          I am a full-stack web developer with over five years of experience in
+          the real estate and software development industries. My expertise lies
+          in developing responsive, mobile-first web applications using HTML,
+          CSS, and JavaScript (including Vue, jQuery, and vanilla JavaScript)
+          and implementing RESTful APIs for enterprise applications with PHP and
+          Laravel. I excel in both collaborative team environments and
+          independent work settings, and I enjoy contributing innovative ideas
+          to enhance departmental performance. What drives me is creating web
+          applications that empower clients to operate more efficiently,
+          increase revenue, and achieve long-term success.
         </p>
         <ul className="list-inline list-social-icons mb-0">
           <li className="list-inline-item">

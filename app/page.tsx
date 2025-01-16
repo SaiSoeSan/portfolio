@@ -13,9 +13,9 @@ export default function Home() {
 
         <Experience />
 
-        <Education />
-
         <Skills />
+
+        <Education />
 
         {/* <section
           className="resume-section p-3 p-lg-5 d-flex flex-column"
@@ -38,7 +38,7 @@ export default function Home() {
           </div>
         </section> */}
 
-        <Testimonial />
+        {/* <Testimonial /> */}
       </div>
     </>
   );
