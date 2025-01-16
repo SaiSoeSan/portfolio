@@ -3,7 +3,6 @@ import Education from "./education";
 import Experience from "./experience";
 import Nav from "./nav";
 import Skills from "./skills";
-import Testimonial from "./testimonial";
 export default function Home() {
   return (
     <>
