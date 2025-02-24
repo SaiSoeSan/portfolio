@@ -57,8 +57,9 @@ const Skills = () => {
           </li>
           <li>Strong problem solving skills</li>
           <li>Eager to learn new technologies to stay up to date</li>
+          <li>Easy to understand the project requirements</li>
           <li>Flexible and easily adaptable to new environments</li>
-          <li>Good Communication</li>
+          <li>Good communication</li>
           <li>Take responsibility</li>
         </ul>
       </div>
