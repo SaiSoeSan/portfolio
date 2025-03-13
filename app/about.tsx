@@ -17,10 +17,10 @@ const About = () => {
           using HTML, CSS, and JavaScript and implementing RESTful APIs for web
           applications with PHP and Laravel. I integrated a lot of seamless API
           integrations with other systems such as Vimeo video platform,
-          Singapore government APIs and Dedoco digitl signature. I excel in both
-          collaborative team environments and independent work settings, and I
-          enjoy contributing innovative ideas to projects. What drives me is
-          creating web applications that empower clients to operate more
+          Singapore government APIs and Dedoco digital signature. I excel in
+          both collaborative team environments and independent work settings,
+          and I enjoy contributing innovative ideas to projects. What drives me
+          is creating web applications that empower clients to operate more
           efficiently, increase revenue, and achieve long-term success.
         </p>
         <ul className="list-inline list-social-icons mb-0">
