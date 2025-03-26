@@ -11,7 +11,7 @@ const About = () => {
           <a href="mailto:saisoesan.dev@email.com">saisoesan.dev@gmail.com</a>
         </div>
         <p className="mb-5">
-          I am a motivated full-stack web developer with over 5 years of
+          I am a motivated full-stack web developer with over 6 years of
           experience in the real estate and software development industries. My
           expertise lies in developing responsive, mobile-first web applications
           using HTML, CSS, and JavaScript and implementing RESTful APIs for web
