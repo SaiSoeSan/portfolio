@@ -47,10 +47,6 @@ const Experience = () => {
                 ensuring efficient query performance and data integrity.
               </li>
               <li>
-                Tested Laravel applications using PHPUnit including HTTP tests,
-                and database tests.
-              </li>
-              <li>
                 Implemented comprehensive vulnerability assessments for web
                 security, including SQL injection and XSS in Laravel and JSP
                 applications.
