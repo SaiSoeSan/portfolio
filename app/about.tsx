@@ -7,7 +7,7 @@ const About = () => {
       <div className="my-auto">
         <h1 className="name mb-0">Sai Soe San</h1>
         <div className="address mb-5">
-          Fairfield, Iowa 52557 . (641) 233-1345 .&nbsp;
+          Amarillo, Texas. (641) 233-1345 .&nbsp;
           <a href="mailto:saisoesan.dev@email.com">saisoesan.dev@gmail.com</a>
         </div>
         <p className="mb-5">
