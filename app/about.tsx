@@ -11,17 +11,17 @@ const About = () => {
           <a href="mailto:saisoesan.dev@email.com">saisoesan.dev@gmail.com</a>
         </div>
         <p className="mb-5">
-          I am a motivated software developer with over 6 years of experience in
-          building and maintaining scalable web applications. My expertise lies
-          in developing responsive, mobile-first web applications using HTML,
-          CSS, and JavaScript and implementing RESTful APIs for web applications
-          with PHP and Laravel. I integrated a lot of seamless API integrations
-          with other systems such as Vimeo video platform, Singapore government
-          APIs and Dedoco digital signature. I excel in both collaborative team
-          environments and independent work settings, and I enjoy contributing
-          innovative ideas to projects. What drives me is creating web
-          applications that empower clients to operate more efficiently, and
-          achieve long-term success.
+          I am a motivated full-stack developer with over 6 years of experience
+          in building and maintaining scalable web applications. My expertise
+          includes developing responsive, mobile-first web applications using
+          HTML, CSS, and JavaScript, React, Next.js, and implementing RESTful
+          APIs for web applications with PHP and Laravel. I integrated a lot of
+          seamless API integrations with other systems such as Vimeo video
+          platform, Singapore government APIs and Dedoco digital signature. I
+          excel in both collaborative team environments and independent work
+          settings, and I enjoy contributing innovative ideas to projects. What
+          drives me is creating web applications that empower clients to operate
+          more efficiently, and achieve long-term success.
         </p>
         <ul className="list-inline list-social-icons mb-0">
           <li className="list-inline-item">

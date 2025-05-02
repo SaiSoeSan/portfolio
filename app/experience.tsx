@@ -19,66 +19,46 @@ const Experience = () => {
             </p>
             <ul className="responsibility">
               <li>
-                Created responsive mobile-first frontend web applications using
-                JavaScript, jQuery, AJAX, Bootstrap, Vue.js and Nuxt.js.
+                Developed responsive front-end applications using JavaScript,
+                React, Next.js, jQuery, AJAX, and Bootstrap and implemented
+                scalable RESTful APIs and web applications using PHP, Laravel,
+                with Oracle including database schema design and optimization,
+                following W3C web accessibility standards for user experiences.
               </li>
               <li>
-                Implemented RESTful APIs for mobile app and web applications
-                using PHP, Laravel with Oracle database enhancing code
-                maintainability.
+                Integrated third-party APIs such as Dedoco Digital Signing,
+                Medisave, and Singpass Login to streamline authentication
+                boosting user trust and reducing manual processing times.
               </li>
               <li>
-                Integrated third-party applications for seamless operations,
-                including PayPal payment system, Dedoco Digital Signing,
-                government APIs like Medisave and Singpass login to enhance
-                efficiency and user experience.
+                Implemented PayPal and PayNow payment gateways with secure
+                transactions, increasing payment processing efficiency by 35%
               </li>
               <li>
-                Collaborated with mobile developers and designers to integrate
-                user-facing elements with server-side logic.
+                Enhanced security by integrating Cloudflare Turnstile for the
+                bot detection and implemented rate limit to prevent DDoS and
+                brute-force attacks and conducted vulnerability assessments
+                (including SQL injection and XSS), ensuring compliance with
+                industry standards and reducing system downtime by 15%
               </li>
               <li>
-                Debugged, troubleshot, and resolved technical challenges,
-                ensuring seamless functionality across all projects.
-              </li>
-              <li>
-                Managed database structure using DB diagram and optimized
-                databases including Eloquent ORM and Laravel Query Builder,
-                ensuring efficient query performance and data integrity.
-              </li>
-              <li>
-                Implemented comprehensive vulnerability assessments for web
-                security, including SQL injection and XSS in Laravel and JSP
-                applications.
-              </li>
-              <li>
-                Used version control tools like Git for source code management
-                and collaboration, and Jira for project management, which have
-                streamlined collaboration and workflow efficiency.
-              </li>
-              <li>
-                Developed comprehensive Confluence documentation for every
-                feature and application I worked on, ensuring easy handovers
-                during critical situations, and streamlining onboarding
-                processes for new team members.
-              </li>
-              <li>
-                Provided technical support to customers by responding to
-                inquiries via phone or in person, ensuring prompt and effective
-                solutions to technical issues.
+                Provided technical support to 8,000+ realtors and authored
+                detailed Confluence documentations and collaborated with Agile
+                teams to streamline development workflows.
               </li>
             </ul>
             <p className="mb-0">Technologies Used:</p>
             <span className="technologies">
-              JavaScript, Vue.js, Nuxt.js, jQuery, AJAX, PHP, Laravel, Oracle,
-              MySQL, Bootstrap, SCSS
+              PHP, Laravel, Java, JSP, JavaScript, React, Next.js, WordPress,
+              jQuery, AJAX, JSON, Oracle, MySQL, CSS, Bootstrap, Tailwind, Ant
+              Design, Cloudflare Turnstile, API Rate Limit
             </span>
           </div>
         </div>
 
         <div className="resume-item d-flex flex-column flex-md-row mb-5">
           <div className="resume-content mr-auto">
-            <h3 className="position mb-0">Full Stack Web Developer</h3>
+            <h3 className="position mb-0">PHP Developer</h3>
             <div className="company">
               Momenta Group Pte Ltd and Dining Butler Pte Ltd, Singapore.
             </div>
@@ -88,42 +68,41 @@ const Experience = () => {
             <p className="mt-3">Developing web applications.</p>
             <ul className="responsibility">
               <li>
-                Designed the database structure and developed a full-stack web
-                applications, implemented responsive mobilefirst front-end
-                applications using JavaScript, jQuery, AJAX, Bootstrap, and CSS.
+                Designed database schema and optimization and implemented
+                front-end applications, using JavaScript, Vue.js, jQuery, AJAX,
+                Bootstrap, and CSS and implemented scalable RESTful APIs and web
+                applications using PHP, Laravel, and MySQL
               </li>
               <li>
-                Implemented RESTful APIs for web applications using PHP, Laravel
-                with MySQL database enhancing code maintainability.
+                Integrated third-party APIs, including PayPal for payments and
+                Vimeo for video storage, to streamline operations and improve
+                efficiency and user experience
               </li>
               <li>
-                Integrated third-party applications for seamless operations,
-                including PayPal payment system and Vimeo video storing API to
-                enhance efficiency and user experience.
+                Performed vulnerability assessments (including SQL injection and
+                XSS) for web security in the existing F&B POS system, reducing
+                system downtime by 15% and enhanced security by integrating
+                Google reCAPTCHA v3 to protect websites from brute-force
+                attacks, and bots.
               </li>
               <li>
-                Developed professional company websites using WordPress and
-                Elementor, including ecommerce platforms with WooCommerce.
+                Developed WordPress websites with Elementor, including
+                e-commerce platforms using WooCommerce and engineered full
+                project lifecycles —from requirement analysis to deployment—
+                optimizing hosting on HostGator and Host SG servers for enhanced
+                site performance and reliability
               </li>
               <li>
-                Optimized website SEO with the Yoast plugin, ensuring
-                user-friendly design and responsiveness.
-              </li>
-              <li>
-                Performed comprehensive vulnerability assessments for web
-                security such as SQL injection, XSS in our existing web-based
-                F&B POS system.
-              </li>
-              <li>
-                Assisted in on-site technical support, configuring printers for
-                seamless integration with the company&apos;s POS software to
-                ensure efficient operations.
+                Collaborated with clients to gather web application
+                requirements, translating technical concepts into non-technical
+                terms to ensure alignment and satisfaction
               </li>
             </ul>
             <p className="mb-0">Technologies Used:</p>
             <span className="technologies">
-              JavaScript, jQuery, AJAX, PHP, Laravel, MySQL, JSON, HTML, CSS,
-              Bootstrap, WordPress, Elementor, WooCommerce
+              PHP, Laravel, MySQL, HTML, CSS, JavaScript, Vue.js, jQuery, AJAX,
+              JSON, Bootstrap, WordPress, WooCommerce, Elementor, Google
+              reCAPTCHA v3
             </span>
           </div>
         </div>
@@ -140,36 +119,25 @@ const Experience = () => {
             <p className="mt-3">Build websites and web applications.</p>
             <ul className="responsibility">
               <li>
-                Created responsive mobile-first web applications and RESTful
-                APIs using PHP, Laravel, jQuery, and Bootstrap.
+                Developed responsive web applications and scalable RESTful APIs
+                using PHP, Laravel, jQuery, AJAX, JSON and Bootstrap together
+                with MySQL database and implemented responsive websites using
+                WordPress and Drupal CMS improving user experience
               </li>
               <li>
-                Developed professional WordPress websites with advanced features
-                such as custom post types, fields, and plugins improving user
-                experience.
-              </li>
-              <li>
-                Implemented web applications using Drupal CMS, ensuring seamless
-                content management and scalability.
-              </li>
-              <li>
-                Performed data entry tasks for client web applications, ensuring
-                accuracy and consistency of data.
-              </li>
-              <li>
-                Collaborated with clients to gather and analyzed web application
+                Collaborated with clients to gather and analyze web application
                 requirements, translating technical concepts into non-technical
-                terms to ensure alignment and satisfaction.
+                terms to ensure alignment and satisfaction
               </li>
               <li>
                 Authored detailed user manuals and conducted on-site demos,
-                streamlining user onboarding and improving adoption rates.
+                streamlining user onboarding and improving adoption rates
               </li>
             </ul>
             <p className="mb-0">Technologies Used:</p>
             <span className="technologies">
-              JavaScript, jQuery, AJAX, PHP, Laravel, MySQL, HTML, CSS3,
-              Bootstrap, JSON, WordPress, Drupal
+              PHP, Laravel, WordPress, Drupal, MySQL, HTML, CSS, JavaScript,
+              jQuery, AJAX, JSON, Bootstrap
             </span>
           </div>
         </div>

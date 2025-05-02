@@ -18,14 +18,15 @@ const Skills = () => {
             <p className="programming-category mb-3">Web</p>
             <ul className="responsibility">
               <li>
-                HTML | CSS | Bootstrap | Tailwind | Vue.js | jQuery | AJAX
+                HTML | CSS | Bootstrap | Tailwind | jQuery | AJAX | JSON | REST
+                | MVC | Redux | React Router | Ant Design
               </li>
             </ul>
           </div>
           <div className="col-md-4">
             <p className="programming-category mb-3">Frameworks</p>
             <ul className="responsibility">
-              <li>Laravel | Nuxt.js</li>
+              <li>Laravel | React | Next.js | Vue.js | Express.js</li>
             </ul>
           </div>
           <div className="col-md-4">
@@ -38,8 +39,10 @@ const Skills = () => {
             <p className="programming-category mb-3">Tools:</p>
             <ul className="responsibility">
               <li>
-                Visual Studio Code | IntelliJ | Eclipse | Jira Software | Trello
-                | Oracle SQL Developer | SourceTree | GitHub
+                Git | GitHub Desktop | SourceTree | VS Code | IntelliJ | Figma |
+                Postman | phpMyAdmin | MySQL Workbench | Oracle SQL Developer |
+                Jira Software | Confluence | Trello | Chrome Dev Tools |
+                Bitbucket | Sentry | Slack | Docker
               </li>
             </ul>
           </div>
