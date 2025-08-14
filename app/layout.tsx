@@ -5,6 +5,7 @@ import "./globals.css";
 import "./resume.min.css";
 
 import { Analytics } from "@vercel/analytics/next";
+import MaintenanceWrapper from "./maintenance-wrapper";
 
 export const metadata: Metadata = {
   title: "My Portfolio",
@@ -24,7 +25,9 @@ export default function RootLayout({
           strategy="afterInteractive" // Ensures it runs after the page loads
         />
         {/* Place children where you want to render a page or nested layout */}
-        <main>{children}</main>
+        <main>
+          <MaintenanceWrapper>{children}</MaintenanceWrapper>
+        </main>
         <Analytics />
       </body>
     </html>
